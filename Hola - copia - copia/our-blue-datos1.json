@@ -1,0 +1,50 @@
+{
+  "profile": {
+    "name": "Luna prueba",
+    "about": "Perfil local",
+    "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+/l9sAAAAASUVORK5CYII="
+  },
+  "poems": [],
+  "messages": [],
+  "memories": [
+    {
+      "id": "mwrxudd3-yqt3vwm1",
+      "createdAt": "2026-11-22T14:34:35.943Z",
+      "title": "Foto de prueba",
+      "date": "2026-11-20",
+      "description": "Descripción",
+      "scope": "shared",
+      "photo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+/l9sAAAAASUVORK5CYII="
+    }
+  ],
+  "reminders": [
+    {
+      "id": "mwrxv8g9-gb0zj7v9",
+      "createdAt": "2026-11-22T14:35:16.233Z",
+      "title": "Llamada",
+      "date": "2026-12-01",
+      "active": false
+    }
+  ],
+  "notes": [
+    {
+      "id": "mwrxv989-zl894l9j",
+      "createdAt": "2026-11-22T14:35:17.241Z",
+      "title": "Nota personal",
+      "body": "Contenido privado",
+      "scope": "shared"
+    }
+  ],
+  "experiences": [
+    {
+      "id": "mwrxvcgp-c01x5cu4",
+      "createdAt": "2026-11-22T14:35:21.433Z",
+      "title": "Paseo editado",
+      "date": "",
+      "description": "Experiencia local"
+    }
+  ],
+  "settings": {
+    "reminderEnabled": true
+  }
+}
